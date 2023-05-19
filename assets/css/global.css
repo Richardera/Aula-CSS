@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #2db6f5e3;
+    font-size: 1rem 3rem;
+    font-weight: 400;
+    font-style: oblique;
+    text-decoration:underline overline line-through red;   
+    text-align: center;
+    
+}
+
+p{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.bg{
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+    background-image: url('https://m.media-amazon.com/images/I/81nRgBywIML.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
