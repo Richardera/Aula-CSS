@@ -1,0 +1,12 @@
+- [ ] Introdução a CSS e Historia da Web
+- [ ] Cores, Backgroud e textos
+- [ ] Fontes, Medidas e Links
+- [ ] Listas, Tabelas, Box Model e Display
+- [ ] Position e introdução a Flexbox
+- [ ] Exercicio I
+- [ ] Flexbox e Alinhamentos
+- [ ] Seletores, Responsividade e Animações
+- [ ] Grid Layout e Unidade "fr" 
+- [ ] Compilando conceitos e criando um projeto
+- [ ] Compilando conceitos e criando um projeto
+- [ ] Exercícios II
