@@ -1,5 +1,5 @@
 - [x] Introdução a CSS e Historia da Web
-- [ ] Cores, Backgroud e textos
+- [x] Cores, Backgroud e textos
 - [ ] Fontes, Medidas e Links
 - [ ] Listas, Tabelas, Box Model e Display
 - [ ] Position e introdução a Flexbox
