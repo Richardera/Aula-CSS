@@ -1,4 +1,4 @@
-- [ ] Introdução a CSS e Historia da Web
+- [x] Introdução a CSS e Historia da Web
 - [ ] Cores, Backgroud e textos
 - [ ] Fontes, Medidas e Links
 - [ ] Listas, Tabelas, Box Model e Display
