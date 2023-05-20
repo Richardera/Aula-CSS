@@ -1,6 +1,6 @@
 - [x] Introdução a CSS e Historia da Web
 - [x] Cores, Backgroud e textos
-- [ ] Fontes, Medidas e Links
+- [x] Fontes, Medidas e Links
 - [ ] Listas, Tabelas, Box Model e Display
 - [ ] Position e introdução a Flexbox
 - [ ] Exercicio I
